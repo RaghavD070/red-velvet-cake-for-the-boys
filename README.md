@@ -45,9 +45,7 @@
 
 6. Bake the cake/cupcakes for around 18-20 minutes at 160°C. A skewer inserted will come out clean, the cake/cupcakes will be shiny and springy to touch. Cool them for about 5 minutes in the pan and then remove to a wire rack to cool completely.
 
-#### Frosting
 
--  Prepare your piping bag with your choice of a nozzle. Add your frosting and pipe them onto the cooled cake/cupcakes.
 
 
 
