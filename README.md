@@ -1,12 +1,8 @@
 # Eggless Red Velvet Cake
 
- **Course** : Dessert
+ 
 
- **Cuisine** : American
-
- **Servings** : 12 cupcakes or 1/2 kg cake approx.
-
-
+#THIS IS FROM FOOD.com
 
 ## Ingredients
 
@@ -32,14 +28,13 @@
 
 - few drops of Red food colour, *preferably the gel paste kind, they don’t dilute the batter*
 
-- 1 batch of your favourite frosting 
+
 
   
 
 ## Procedure
 
-1. Preheat the oven to 160°C. Prepare a 12-muffin pan with cupcake liners/mould.
-
+1. Preheat the oven to 160°C. 
 2. In a bowl, sift all the dry ingredients – flour, cocoa powder, sugar, baking powder, baking soda and salt.
 
 3. In a separate bowl, add the vinegar to milk and leave it aside for 5 minutes. Once the milk is curdled (buttermilk is ready), combine oil, vanilla & food colour to it and whisk well.
@@ -60,6 +55,3 @@
 
 
 
-<img src="https://i.pinimg.com/736x/89/a9/7a/89a97a03fb7dd798db4c9142d6e73cd4.jpg" alt="Red Velvet cake" style="zoom: 50%;" />
-
-<img src="https://www.chocolatemoosey.com/wp-content/uploads/2020/02/Small-6-Inch-Red-Velvet-Cake-For-Two-photo-0410.jpg" style="zoom:50%;" />
